@@ -1,5 +1,14 @@
-# python-stream-announcer
-Simple Stream Telegram Announcer from Youtube and Twitch
+# Twitch Stream Status Alerts for Telegram
+An app that sends notifications to your Telegram channel when a specified Twitch streamer goes online or offline
+
+## Usage
+1. Set up the app with your Telegram account and Twitch streamer preferences
+2. Sit back and enjoy notifications in Telegram for when your streamers go online or offline
+
+## Requirements
+- A Telegram bot account
+- A Telegram channel
+- A Twitch account
 
 ## Installation
 ```bash
